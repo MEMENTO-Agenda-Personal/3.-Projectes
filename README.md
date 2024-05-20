@@ -1,4 +1,4 @@
-# 3.-Projectes
+# Projectes
 **En aquesta última secció podràs gestionar els projectes en els que estàs involucrat, de forma general i especificament per cada projecte que vulguis registrar. Gràcies al seguit de plantilles creades per a les diferents necessitats podràs fer actes de reunions, plantejar pressupostos, comandes i guardar contactes importants. No dubtis en crear també les teves pròpies plantilles amb els fulls lliures que t’oferim, adaptats a les diferents formes de redacció.**
 
 1. Projectes en curs/Kanban: Aquesta famosa metodología et permet veure el conjunt de projectes en els que estàs treballant, diferenciat per els que estàn en marxa, els pendents i els que ja has completat. Ajuda’t de les pegatines de colors que s’inclouen per modificar l’estat de cada projecte, així com per diferenciar les categoríes a les que pertanyen. 
